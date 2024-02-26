@@ -1,3 +1,5 @@
+//The app shows the weather by the hour (until the end of the day) in your city
+// example: go run weather.go Moscow
 package main
 
 import (
